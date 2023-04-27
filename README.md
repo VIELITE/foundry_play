@@ -10,26 +10,27 @@ To install this project, follow these steps:
 
 Clone this repository to your local machine using the command `git clone https://github.com/VIELITE/foundry-solidity-testing.git`.
 
+# Contents
 
-** Error Handling **
+**Error Handling**
 The error handling tests cover scenarios where invalid input is provided to a contract method, or where the contract encounters an error during execution.
 
-** Assertion Testing **
+**Assertion Testing**
 The assertion testing examples cover scenarios where the contract output is checked against expected values.
 
-** Basic Commands Used in Foundry**
+**Basic Commands Used in Foundry**
 The basic commands testing examples cover common commands used in Foundry, such as sending transactions and querying the blockchain.
 
-** Basic Methods for Testing**
+**Basic Methods for Testing**
 The basic methods testing examples cover common methods used in unit testing, such as setup and teardown functions.
 
-** Authentication Testing **
+**Authentication Testing**
 The authentication testing examples cover scenarios where access control is implemented in the contract, and tests are run to ensure that only authorized users can execute certain methods.
 
-** Console Log Testing **
+**Console Log Testing**
 The console log testing examples cover scenarios where console logs are used to output debugging information, and tests are run to ensure that the correct output is being generated.
 
-** Troubleshooting **
+**Troubleshooting**
 If you encounter any issues while running the tests, please review the error messages in the console output. If you are still unable to resolve the issue, please contact the project owner using the information provided below.
 
 # Contributing
